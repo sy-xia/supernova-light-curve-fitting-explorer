@@ -1421,7 +1421,7 @@
     "masthead": {
       "help": {
         "title": "Help and Instructions",
-        "content": "<p>This explorer allows one to determine the distance to a supernova by fitting observations to a theoretical Type Ia light curve.</p>"
+        "content": "<p>This explorer allows one to determine the distance to a supernova by fitting observations to a theoretical Type Ia light curve.</p><p>Use the cursor or keyboard to move the data to match the theoretical light curve of a supernova.</p>"
       },
       "about": {
         "title": "About this Explorer",
